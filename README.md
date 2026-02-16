@@ -52,7 +52,10 @@ docker compose up --build
 
 Frontend: http://localhost:5173
 
-Backend Docs: http://localhost:8000/docs
+Backend: http://localhost:8000
+
+Ollama: http://localhost:11434
+
 📊 Admin Analytics
 
 Endpoint:
